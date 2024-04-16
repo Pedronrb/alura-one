@@ -1,4 +1,4 @@
-package desafio;
+package desafio.conta;
 
 public class Principal {
     public static void main(String[] args) {

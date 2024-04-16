@@ -1,4 +1,4 @@
-package desafio;
+package desafio.conta;
 
 public class ContaBancaria {
     private int numeroDaConta;
