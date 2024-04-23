@@ -35,7 +35,7 @@ public class Episodio implements Classificavel {
     }
 
     @Override
-    public int getClassificavel() {
+    public int getClassificacao() {
         if(totalVisualizacoes > 100){
             return 4;
         }
